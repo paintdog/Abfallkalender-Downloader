@@ -9,3 +9,10 @@ Die Anfrage für das json-Objekt richtet sich an die URL _https://www.egn-abfall
 Google bietet eine [Anleitung](https://support.google.com/calendar/answer/37118), wie man csv- oder ics-Dateien in Google Kalender importieren kann und welches Format erforderlich ist.
 
 Stand: Dezember 2019
+
+## ChangeLog
+
+### [1.0.0] - 2019-12-29
+### Added
+- Grundsätzliche Funktionalität
+- eng.py kann json-Daten aus dem Browser verarbeiten und eine csv-Datei schreiben, die in Google Kalender importiert werden kann

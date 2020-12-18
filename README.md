@@ -1,4 +1,4 @@
-# egn Abfallkalender-Downloader
+# Abfallkalender-Downloader
 
 Die EGN Entsorgungsgesellschaft Niederrhein mbH bietet die Möglichkeit, dass man sich im Browser seinen Abfallkalender unter [www.egn-abfallkalender.de](https://www.egn-abfallkalender.de/) anzeigen lassen kann, allerdings kann man den Kalender dort nicht herunterladen, um ihn in Google Kalender oder einer anderen Kalender-App zu importieren.
 

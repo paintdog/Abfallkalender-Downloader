@@ -62,8 +62,8 @@ def filter_calendar_for_year(data, year):
 def write_csv(calendar_data, parameter, year):
     ''' writes a csv that you can import to Google Kalender'''
     with open(create_filename(parameter, year), 'w', newline='') as csvfile:
-        spamwriter = csv.writer(csvfile)
-        spamwriter.writerows(calendar_data)
+        events_writer = csv.writer(csvfile)
+        events_writer.writerows(calendar_data)
 
 def main():
     ''' loads calendar data from the egn website and
